@@ -1,0 +1,40 @@
+body {padding-top: 70px;}
+  
+.container-fluid {max-width: 80%;}
+
+.container {clearfix;}
+
+h1  {margin-left: 30%;}
+
+h2  {margin-left: 40%;}
+
+.row .col-sm-6 {@column-count;}
+
+.row .col-sm-6 .phone {font-size: 25px;}
+.row .col-sm-6 .mail {font-size: 25px;}
+.row .col-sm-6 img .social icon {clear: both:}
+.row .col-sm-6 .phone {margin-top: 5%; margin-left: 25%;}
+.row .col-sm-6 .mail {margin-top: 5%; margin-left: 25%;}
+.row .col-sm-6 .social-icon {margin-top: 5%; margin-left: 25%;}
+
+.navbar-header {background-color: purple;}
+
+li a {background-color: purple;}
+       
+.navbar .nav > li > a {color:white;}
+
+.navbar .nav> li > a {font-size: 25px;}
+
+.container-fluid .row .middle li {margin-left: 25%;
+    font-size: 25px; }
+
+.container-fluid .row .top {font-size: 25px;background-color: #f2f2f2;
+                            padding: 2.5%; border: 2.5%; margins:2.5%}
+
+.container-fluid .row .middle  {padding: 2.5%; border: 2.5%; margin-top: 2.5%; margin-bottom: 2.5%; background-color: #e6e6e6;}
+
+.container-fluid .row .bottom {font-size: 25px; padding: 2.5%; border: 2.5%; margins:2.5%;
+    background-color: #d9d9d9;
+}
+
+
