@@ -4,26 +4,18 @@ body {padding-top: 70px;}
 
 .container {clearfix;}
 
-h1  {margin-left: 30%;}
+h1  {margin-left: 25%;}
 
-h2  {margin-left: 40%;}
 
 .row .col-sm-6 {@column-count;}
 
-.row .col-sm-6 .phone {font-size: 25px;}
-.row .col-sm-6 .mail {font-size: 25px;}
-.row .col-sm-6 img .social icon {clear: both:}
-.row .col-sm-6 .phone {margin-top: 5%; margin-left: 25%;}
-.row .col-sm-6 .mail {margin-top: 5%; margin-left: 25%;}
-.row .col-sm-6 .social-icon {margin-top: 5%; margin-left: 25%;}
 
-.navbar-header {background-color: purple;}
+ .mail {font-size: 25px;}
 
-li a {background-color: purple;}
-       
-.navbar .nav > li > a {color:white;}
 
-.navbar .nav> li > a {font-size: 25px;}
+.mail {margin-top: 5%; margin-left: 25%;}
+
+
 
 .container-fluid .row .middle li {margin-left: 25%;
     font-size: 25px; }
